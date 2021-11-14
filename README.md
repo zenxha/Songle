@@ -17,10 +17,7 @@ Project is a song browser, in which the user uploads their song requests and the
 Check out the Song Input page on the navbar, where you can add your favorite songs onto our database and a chance at seeing it displayed on the big jumbotron in the Song page!
 ![alt text](https://cdn.discordapp.com/attachments/593331093130838016/905709835507601418/unknown.png)
 # Project History
-## Individual Final Review
-### Link to [Scrum Team Videos](https://github.com/zenxha/m22-2-blackpink-but-specifically-Rose/issues/39)
-## WEEK 7 Modeling Checkpoint plus unit 7
-### [Video Overview](https://www.youtube.com/watch?v=pXoBqpgow-w&ab_channel=Purplebears)
+
 ### View/Frontend (Allen and KomayFocus)
 - Application of [grayscale java algorithm](https://github.com/zenxha/m22-2-blackpink-but-specifically-Rose/blob/main/src/main/java/com/example/sping_portfolio/model/starters/ImageInfo.java) onto image files in project directory
 - Implementation of front end static images into [image directory](https://github.com/zenxha/m22-2-blackpink-but-specifically-Rose/tree/main/src/main/resources/static/images) for front end display
